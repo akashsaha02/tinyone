@@ -1,0 +1,8 @@
+PTSans Regular, Bold
+HelveticaNeue Bold
+Font Awesome
+
+
+#010101
+#898989
+#fcdb00
