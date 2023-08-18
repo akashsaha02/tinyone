@@ -54,7 +54,7 @@
      }
 
      /* feature */
-     .feature {
+     .c_padding {
          padding-top: 50px;
          padding-bottom: 70px;
      }
@@ -92,6 +92,14 @@
      .f_text p {
          letter-spacing: 0;
      }
+
+     /* contact start */
+     .c_submit {
+         margin-top: 10px;
+         padding: 10px;
+         height: 45px;
+     }
+
  }
 
  /* Small devices (landscape phones, 576px and up) */
@@ -146,7 +154,7 @@
      }
 
      /* feature */
-     .feature {
+     .c_padding {
          padding-top: 50px;
          padding-bottom: 70px;
      }
@@ -184,6 +192,14 @@
      .f_text p {
          letter-spacing: 0;
      }
+
+     /* contact start */
+     .c_submit {
+         margin-top: 10px;
+         padding: 10px;
+         height: 45px;
+     }
+
  }
 
  /* Medium devices (tablets, 768px and up) */
